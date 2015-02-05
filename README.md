@@ -1,4 +1,6 @@
-abhishekchoudhary.github.io
+abhishekchoudhary.com
 ===========================
 
-Currently: I am experimenting with GitHub Pages. One day: I hope to have meaningful content here.
+This is code for my website, [abhishekchoudhary.com](https://abhishekchoudhary.com). My résumé is here as well.
+
+I don't know why anybody would want to read this code. This is neither original nor impressive.
