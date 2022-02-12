@@ -184,7 +184,7 @@ footer {
 }
 
 .image-block {
-  width: 80%;
+  width: 95%;
   height: auto;
 }
 
@@ -192,7 +192,7 @@ footer {
     position: relative;
 }
 
-.image-block:before {
+.image-block__wrapper:before {
     content: '';
     position: absolute;
     top: 10px;
